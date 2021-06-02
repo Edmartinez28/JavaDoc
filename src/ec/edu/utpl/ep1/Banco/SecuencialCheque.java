@@ -1,7 +1,7 @@
 package ec.edu.utpl.ep1.Banco;
 
 /**
- *  @author Edgar Martínez y Richard Ojeda
+ *  @author Edgar Martínez y Richard Ojeda.
  *  ESta clase es para validar componentes
  */
 public class SecuencialCheque {

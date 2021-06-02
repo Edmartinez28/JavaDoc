@@ -1,11 +1,9 @@
 package ec.edu.utpl.ep1.Banco;
-
+/**
+ * @author Edgar MartÃ­nez y Richard Ojeda
+ * Esta clase esta creada para generar nuevas cuentas
+ */
 public class Ahorro {
-    /**
-     * @author Edgar MartÃ­nez y Richard Ojeda
-     * Esta clase esta creada para generar nuevas cuentas
-     */
-
 
         private double interesAnual;
 

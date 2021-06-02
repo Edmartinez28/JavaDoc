@@ -2,7 +2,7 @@ package ec.edu.utpl.ep1.Banco;
 import java.time.LocalDate;
 
 /**
- * @author Edgar Martínez y Richard Ojeda
+ * @author Edgar Martínez y Richard Ojeda.
  * Esta clase  manipula datos de tipo decimal y  cadenas
  */
 public class Cuenta {
